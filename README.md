@@ -6,7 +6,7 @@ Python implementation of objective quality and intelligibilty measures mentioned
 # Install with pip
 Install pysepm:
 ```
-pip3 install https://github.com/schmiph2/pysepm/archive/master.zip
+pip3 install https://github.com.cnpmjs.org/liyihao17/pysepm/archive/master.zip
 ```
 # Examples
 Please find a Jupyter Notebook with examples for all implemented measures in the [examples folder](https://github.com/schmiph2/pysepm/tree/master/examples).
