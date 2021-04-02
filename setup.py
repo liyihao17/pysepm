@@ -13,8 +13,8 @@ setup(
 		'scipy',
         'numba',
 		'pystoi',
-		'pesq @ https://github.cnpmjs.org/ludlows/python-pesq/archive/master.zip#egg=pesq',
-		'SRMRpy @  https://github.cnpmjs.org/jfsantos/SRMRpy/archive/master.zip#egg=SRMRpy',
+		'pesq @ https://github.com.cnpmjs.org/ludlows/python-pesq/archive/master.zip#egg=pesq',
+		'SRMRpy @  https://github.com.cnpmjs.org/jfsantos/SRMRpy/archive/master.zip#egg=SRMRpy',
 	],
     classifiers=[
         'Development Status :: 4 - Beta',
